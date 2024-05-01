@@ -1,0 +1,10 @@
+android:
+  dexes:
+    - ../classes.dex
+
+  manifest:
+    application:
+      activities:
+        - name: android.app.NativeActivity
+        - name: .Activity
+          exported: true
