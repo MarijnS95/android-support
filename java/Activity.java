@@ -1,5 +1,4 @@
-// package rust.android_support;
-package com.example.example;
+package rust.android_support;
 
 import android.view.Window;
 import android.view.View;
